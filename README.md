@@ -53,4 +53,4 @@ The extracted data is stored in a CSV file (output.csv) for easy review and furt
 
 🛠️ Debugging runtime errors and handling edge cases
 
-👩‍💻 Author dharshini | Java & Selenium Learner  dharshinidhanabal0608@gmail.com
+👩‍💻 Author trupti | Java & Selenium Learner  truptiavhad625@gmail.com
